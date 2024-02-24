@@ -1,0 +1,43 @@
+﻿Build started 2023/1/29 10:21:24.
+     1>Project "D:\workSVN\【通用工具】\Base64_Tools\Base64_Tools\Base64_Tools.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Base64_Tools.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Base64_Tools.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Base64_ToolsDlg.cpp
+         Base64_ToolsDlg.cpp
+     1>d:\worksvn\【通用工具】\base64_tools\base64_tools\mongoose.h(2559): warning C4005: 'SLIST_ENTRY' : macro redefinition
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(12726) : see previous definition of 'SLIST_ENTRY'
+     1>d:\worksvn\【通用工具】\base64_tools\base64_tools\base64_toolsdlg.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workSVN\【通用工具】\Base64_Tools\Debug\Base64_Tools.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Base64_Tools.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\workSVN\【通用工具】\Base64_Tools\Debug\Base64_Tools.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workSVN\【通用工具】\Base64_Tools\Debug\Base64_Tools.lib" /MACHINE:X86 Debug\Base64_Tools.res
+         Debug\Base64_Tools.exe.embed.manifest.res
+         Debug\Base64_Tools.obj
+         Debug\Base64_ToolsDlg.obj
+         Debug\EncodeUtil.obj
+         Debug\FastData.obj
+         Debug\FileUtil.obj
+         Debug\md5.obj
+         Debug\mongoose.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Base64_Tools.exe.embed.manifest" /manifest Debug\Base64_Tools.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Base64_Tools.vcxproj -> D:\workSVN\【通用工具】\Base64_Tools\Debug\Base64_Tools.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Base64_Tools.unsuccessfulbuild".
+         Touching "Debug\Base64_Tools.lastbuildstate".
+     1>Done Building Project "D:\workSVN\【通用工具】\Base64_Tools\Base64_Tools\Base64_Tools.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69

@@ -1,0 +1,24 @@
+﻿Build started 2023/1/29 14:09:10.
+     1>Project "D:\workSVN\【通用工具】\Base64_Tools\Base64_Tools\Base64_Tools.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Base64_Tools.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Base64_Tools.vcxproj -> D:\workSVN\【通用工具】\Base64_Tools\Release\Base64_Tools.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\workSVN\【通用工具】\Base64_Tools\Release\Base64_Tools.exe;#1" /manifest Release\Base64_Tools.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Base64_Tools.unsuccessfulbuild".
+         Touching "Release\Base64_Tools.lastbuildstate".
+     1>Done Building Project "D:\workSVN\【通用工具】\Base64_Tools\Base64_Tools\Base64_Tools.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
